@@ -1,9 +1,9 @@
 # Campo Minado - Linguagem Python
 
 
-Disciplina: Introdução à Programação em Python
-Professor: Rodrigo Lyra
-Alunos: João Vitor Specht Kogut e Nicole Migliorini Magagnin
+Disciplina: Introdução à Programação em Python<br>
+Professor: Rodrigo Lyra<br>
+Alunos: João Vitor Specht Kogut e Nicole Migliorini Magagnin<br>
 
 
 # Objetivo
